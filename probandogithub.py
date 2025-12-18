@@ -4,4 +4,6 @@ print("Segundo print")
 
 print("Cuarto print en total, pero tercero si no tenemos en cuenta el de Alternative")
 
-print("Siguiente print despues de suber el anterior commit a github")
+print("Siguiente print después de subir el anterior commit a github")
+
+print("Corrigo ortografía en el print de la línea 7 y añado este print")
